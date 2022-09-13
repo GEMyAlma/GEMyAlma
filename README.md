@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GEMyAlma, My real name is Gaston.
-- 👀 I’m interested in Android and web development. I'm a newbie.
+- 👀 I’m interested in Android and web development.
 - 🌱 I’m currently learning html, css, javascript and java.
 - 💞️ I am looking to improve myself in programming, learn from others, share knowledge and improve my English.
 <!--- 📫 How to reach me ...--->
